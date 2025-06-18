@@ -1,3 +1,5 @@
 /test/
 .env*dev
+.env*adi
 /venv/
+.databrickscfg
